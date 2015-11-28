@@ -23,4 +23,4 @@ Each time the rotary encoder is turned one notch, the LED will blink once.
 
 The code can be found [here][code].
 
-[code]: blink_rotate/blink_rotate.ino
+[code]: blink_rotate.ino
