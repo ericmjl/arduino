@@ -14,3 +14,7 @@
 Each time the rotary encoder is turned one notch, the LED will blink once.
 
 ## Schematic
+
+![Circuit schematic][circuit]
+
+[circuit]: circuit.jpg
