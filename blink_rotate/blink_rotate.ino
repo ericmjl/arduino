@@ -47,7 +47,7 @@ void loop() {
     else{
       bLED = true;
     }
-    
+
     Serial.println(bLED);
 
     if (bLED){
@@ -56,15 +56,10 @@ void loop() {
     else{
       digitalWrite(pinLED, LOW);
     }
-    //   if (encoderPosCount > 18) {
-    //  digitalWrite(pinLED, HIGH);
-    //       }
-    //   else {
-    //       digitalWrite(pinLED, LOW);
-    //       }
   } 
   pinALast = aVal;
 } 
+
 
 
 
